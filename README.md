@@ -1,4 +1,4 @@
-<div aling="center">
+<div align="center">
 
 <h1>LITTLE GRAPHIC ENGINE EXPERIMENTS</h1>
 <p>
