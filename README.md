@@ -13,7 +13,7 @@ developer rage on a code review. Thanks
 <p>
 Personally, i used MinGW (wich allows you to have common GNU C and C++ compilers)
 to get the gcc compiler, so i compile directly from prompt (or any terminal) using<br>
-<code>>> gcc ScriptName.cpp<code><br>
+<code>>> gcc ScriptName.cpp</code><br>
 you can also use code::blocks or any C++ IDE to make it easier.
 </p>
 
