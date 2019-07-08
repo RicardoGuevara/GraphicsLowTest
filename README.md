@@ -1,6 +1,6 @@
-<div>
+<div aling="center">
 
-<h1 aling="center">LITTLE GRAPHIC ENGINE EXPERIMENTS</h1>
+<h1>LITTLE GRAPHIC ENGINE EXPERIMENTS</h1>
 <p>
 All the following tests was made in order to improove C++ skills 
 and get some knowledge about graphic engines generic fundamentals, 
@@ -12,8 +12,8 @@ developer rage on a code review. Thanks
 <h2>How to test it</h2>
 <p>
 Personally, i used MinGW (wich allows you to have common GNU C and C++ compilers)
-to get the gcc compiler, so i compile directly from prompt (or any terminal) using<br>
-<code>>> gcc ScriptName.cpp</code><br>
+to get the gcc compiler, so i compile directly from prompt (or any terminal) using<br><br>
+<code>>> gcc ScriptName.cpp</code><br><br>
 you can also use code::blocks or any C++ IDE to make it easier.
 </p>
 
