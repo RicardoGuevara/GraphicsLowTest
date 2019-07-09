@@ -1,0 +1,2 @@
+g++ compression.cpp
+a
